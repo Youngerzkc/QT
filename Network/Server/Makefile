@@ -1,0 +1,1 @@
+LDFLAGS += -lsqlite3
